@@ -43,7 +43,7 @@ JsonToExcel은 JSON 데이터를 읽어 Excel 파일(`.xlsx`)로 변환하는 Ja
 <img width="1428" alt="스크린샷 2024-11-18 오전 10 56 43" src="https://github.com/user-attachments/assets/0487af24-434a-4c4b-b8a7-83389853de9b">
 
 ---
-## 📚 기술 스택
+## 📚 기술스택
 - Java 21 
 - Jackson
 - Apache POI
